@@ -41,3 +41,4 @@ class SubPart implements Describable{
 }
 
 //assert is used to debug mode.
+// dart --enable-asserts assert.dart
