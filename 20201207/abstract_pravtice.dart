@@ -39,3 +39,5 @@ class SubPart implements Describable{
     print('4');
   }
 }
+
+//assert is used to debug mode.
